@@ -1,0 +1,129 @@
+.container{
+    padding-bottom: 75px;
+}
+/*Main top-bar section*/
+
+.navbar-brand img{
+    width: 200px;
+    height: 60px;
+}
+.nav-button {
+    Width:104px; 
+    Height:43px;
+    border-radius: 33px;
+    background-color: #21B573;
+    color: white;
+    border: none;
+}
+.main-top-bar{
+    background-color: #F0FFF0;
+    padding-top: 15px;
+   
+}
+.red{
+    color: red;
+}
+.green{
+    color:  #21B573;
+}
+p{
+    color: #6C6B6B;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+}
+
+/*second top bar section started from here*/
+
+.cat1{
+    padding: 33px 63px;
+    background-color: #F8FFFB;
+    width: 270px;
+    height: 270px;
+    border-radius: 10px;
+    
+
+}
+.cat2{
+    padding: 33px 63px;
+    background-color: #F8FFFB;
+    width: 270px;
+    height: 270px; 
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.cat3{
+    padding: 33px 63px;
+    background-color: #F8FFFB;
+    width: 270px;
+    height: 270px;
+    border-radius: 10px;
+}
+.cat4{
+    padding: 33px 63px;
+    background-color: #F8FFFB;
+    width: 270px;
+    height: 270px;
+    border-radius: 10px;
+}
+
+.course-section img{
+    width: 85px;
+    padding-bottom: 30px;  
+    
+}
+.course-section{
+    padding-top: 50px;
+    text-align: center; 
+}
+/*class-car-section is here*/
+
+.class-car-section h2{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.card{
+    border-radius: 10px;
+    border: none;
+    box-shadow: 10px 10px 20px lightgrey;
+    padding: 25px;
+}
+.card-head{
+    padding-top: 40px;
+}
+
+/*Testimonial section is started form here*/
+.Testimonial-sc{
+    padding: 50px 178px;
+}
+.Testimonial-sc img{
+    width: 100px;
+  
+}
+.Testimonial-sc h1{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+
+.footer-section{
+    background-color: #282531;
+    color: white;
+    padding-top: 85px;
+    margin-top: 60px;
+    
+}
+
+.footer-section ul{
+    list-style-type: none;
+}
+.footer{
+    text-align: center;
+    background-color: #282531;
+    color: white;
+    
+   
+}
+    
+
